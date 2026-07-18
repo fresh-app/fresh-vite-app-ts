@@ -13,7 +13,7 @@ importers:
         version: 6.0.3
       vite:
         specifier: ^8.1.1
-        version: 8.1.4
+        version: 8.1.5
 
 packages:
 
@@ -265,8 +265,8 @@ packages:
     engines: {node: '>=14.17'}
     hasBin: true
 
-  vite@8.1.4:
-    resolution: {integrity: sha512-bTT9PsdWO+MQMNG9ZXIP/qM9wGh37DFxTV/sPq9cFpHr3w4jkgef032PkAL9jAqhk3Nz8NQw3O8n6/xFkqO4QQ==}
+  vite@8.1.5:
+    resolution: {integrity: sha512-7ULLwsCdYx/nRyrpiEwvqb5TFHrMVZyBt+rg/OAXT7rgj/z+DtTDyKFeLAdDkubDVDKD8jOsndmy7m55XcfUsw==}
     engines: {node: ^20.19.0 || >=22.12.0}
     hasBin: true
     peerDependencies:
@@ -494,7 +494,7 @@ snapshots:
 
   typescript@6.0.3: {}
 
-  vite@8.1.4:
+  vite@8.1.5:
     dependencies:
       lightningcss: 1.32.0
       picomatch: 4.0.5
